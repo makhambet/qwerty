@@ -1,0 +1,48 @@
+body {
+	background: aliceblue;
+	font-family: Calibri, Arial;
+	margin: 0;
+	padding: 0;
+	font-size: 28px;
+}
+#hacksearchsection{
+	width: 45%;
+	margin-left: 25%;
+	padding: 30px 15px 20px 15px;
+	padding-left: 30px;
+}
+#hacklist{
+	width: 45%;
+	background: #fff;
+	padding: 15px;
+	margin-left: 25%;
+}
+.hackeventbox{
+	margin: 25px;
+}
+h2{
+	color: #428BCA;
+}
+#headhack{
+	padding: 2px 12px;
+	border-radius: 10px;
+	height: 25px;
+	width: 
+}
+.sect1{
+	border-radius: 10px;
+	padding-left: 2px 12px;
+	height: 25px;
+	width: 70%;
+}
+.sect2{
+	border-radius: 5px;
+	margin-left: 5px;
+	background: #FF1717;
+	color: #ffffff;
+	height: 28px;
+	width: 15%;
+}
+.sect2:hover{
+	background: #428BCA;
+}
